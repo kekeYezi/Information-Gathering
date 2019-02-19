@@ -8,3 +8,21 @@ https://www.cnblogs.com/cyjy/
 
 https://kekeyezi.github.io
 
+Git pull
+
+
+
+Git push
+
+
+
+git merge
+
+
+
+git commit
+
+
+
+
+
